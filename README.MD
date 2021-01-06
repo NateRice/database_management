@@ -1,4 +1,4 @@
-# Database Management User Interface: _command line user interface for a sample automobile insurance database using SQLite_
+# Database Management User Interface: _command line user interface for a sample automobile insurance database using Java, JDBC, and SQLite_
 ---
 ## To run the program:
 Download all files in this repository and save in one folder. 
